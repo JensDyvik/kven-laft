@@ -9,9 +9,10 @@ The files have been made with Freecad, free open design software. You can downlo
 
 ### Files
 
- - Download the Kven laft [main design file](https://github.com/JensDyvik/kven-laft/blob/main/kvenlaft-parametric-freecad-model.FCStd)
- - Downlaod the Tyroll laft comparison file [main design file](https://github.com/JensDyvik/kven-laft/blob/main/tyroll-laft-freecad-model-for-comparrision.FCStd)
-
+ - [Main design file](https://github.com/JensDyvik/kven-laft/blob/main/kvenlaft-parametric-freecad-model.FCStd)
+ - Tyroll laft [comparison file](https://github.com/JensDyvik/kven-laft/blob/main/tyroll-laft-freecad-model-for-comparrision.FCStd)
+ - Scale model [3D print files](https://github.com/JensDyvik/kven-laft/tree/main/3D-print-test-files)
+ 
 ### Images
 
 
